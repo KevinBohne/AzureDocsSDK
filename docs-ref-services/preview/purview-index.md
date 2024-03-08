@@ -1,3 +1,12 @@
+---
+author: qiaozha
+ms.author: qiaozha
+ms.data: 04/28/2023
+ms.topic: include
+ms.devlang: javascript
+ms.service: purview
+---
+
 | Reference | Package | Source |
 |---|---|---|
 |[Purview Administration](purview-administration-rest-readme.md)|[@azure-rest/purview-administration](https://www.npmjs.com/package/@azure-rest/purview-administration)|[GitHub](https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/purview/purview-administration-rest)|
