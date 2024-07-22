@@ -6,7 +6,7 @@ ms.topic: reference
 ms.devlang: javascript
 ms.service: communication
 ---
-# Azure Communication Alpha IDs client library for JavaScript - version 1.0.0-alpha.20240722.1 
+# Azure Communication Alpha IDs client library for JavaScript - version 1.0.0-alpha.20240722.3 
 
 
 The Alpha IDs library provides capabilities for Alpha IDs administration.
