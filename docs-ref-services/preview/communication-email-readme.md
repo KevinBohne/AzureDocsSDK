@@ -6,7 +6,7 @@ ms.topic: reference
 ms.devlang: javascript
 ms.service: communication
 ---
-# Azure Communication Email client library for JavaScript - version 1.0.1-alpha.20240729.1 
+# Azure Communication Email client library for JavaScript - version 1.0.1-alpha.20240729.3 
 
 
 This package contains a JavaScript/TypeScript SDK for Azure Communication Services for Email.
