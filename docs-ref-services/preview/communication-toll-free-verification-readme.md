@@ -6,7 +6,7 @@ ms.topic: reference
 ms.devlang: javascript
 ms.service: communication
 ---
-# Azure Communication Toll Free Verification client library for JavaScript - version 1.0.0-alpha.20240730.2 
+# Azure Communication Toll Free Verification client library for JavaScript - version 1.0.0-alpha.20240731.2 
 
 
 The Toll Free Verification library provides capabilities for Campaign Brief administration.
