@@ -1,7 +1,7 @@
 {
   "Name": "@azure/arm-edgezones",
-  "Version": "1.0.0-beta.1",
-  "DevVersion": null,
+  "Version": "1.0.0-alpha.20240730.1",
+  "DevVersion": "1.0.0-alpha.20240730.1",
   "DirectoryPath": "sdk/edgezones/arm-edgezones",
   "ServiceDirectory": "edgezones",
   "ReadMePath": "sdk/edgezones/arm-edgezones/README.md",
@@ -10,5 +10,5 @@
   "SdkType": "mgmt",
   "IsNewSdk": true,
   "ArtifactName": "azure-arm-edgezones",
-  "ReleaseStatus": "2024-07-09"
+  "ReleaseStatus": "Unreleased"
 }
